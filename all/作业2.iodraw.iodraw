@@ -1,0 +1,97 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="5FOp1wIOqzwnd8_EAMui">
+    <mxGraphModel dx="1213" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-VIbJrZFmCgcilacWfkk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-1" target="-VIbJrZFmCgcilacWfkk-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-1" target="-VIbJrZFmCgcilacWfkk-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-1" target="-VIbJrZFmCgcilacWfkk-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-1" target="-VIbJrZFmCgcilacWfkk-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-1" value="铁路购票子系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="40" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-6" target="-VIbJrZFmCgcilacWfkk-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-6" target="-VIbJrZFmCgcilacWfkk-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-6" target="-VIbJrZFmCgcilacWfkk-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-6" target="-VIbJrZFmCgcilacWfkk-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-10" target="-VIbJrZFmCgcilacWfkk-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-10" target="-VIbJrZFmCgcilacWfkk-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-10" value="帮助" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-11" target="-VIbJrZFmCgcilacWfkk-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-11" target="-VIbJrZFmCgcilacWfkk-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-11" value="电子票据管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-12" target="-VIbJrZFmCgcilacWfkk-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-VIbJrZFmCgcilacWfkk-12" target="-VIbJrZFmCgcilacWfkk-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-12" value="车票管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-13" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="5" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-14" value="修改资料" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="155" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-15" value="查询用户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="105" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-16" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="55" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-17" value="选择车票" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="424" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-18" value="查询车票" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="374" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-19" value="打印电子票据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="590" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-20" value="查询电子票据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="540" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-21" value="退出" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="755" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-VIbJrZFmCgcilacWfkk-22" value="在线帮助" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="705" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
